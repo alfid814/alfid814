@@ -39,8 +39,6 @@ A collection of network & security simulations built with Cisco Packet Tracer â€
 
 ### ðŸ“Š GitHub Stats
 
-![Dimas's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alfid814&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=alfid814&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
