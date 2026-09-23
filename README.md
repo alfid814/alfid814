@@ -34,6 +34,7 @@
 
 🔹 [**Cisco Network Labs**](https://github.com/alfid814/cisco-network-labs)  
 A collection of network & security simulations built with Cisco Packet Tracer — covering VLAN segmentation, ACL, DHCP/DNS/Web services, STP redundancy, and Port Security.
+
 🔹 [**DocSecure**](https://github.com/alfid814/docsecure)  
 A secure medical document management system built with Python. Focuses on document confidentiality and access control — relevant to security principles in application development.
 
